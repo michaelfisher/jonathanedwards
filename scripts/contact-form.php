@@ -1,7 +1,7 @@
 <?php
 
 //Desired recipient
-$recipient =	"Michael Fisher <michael@thefisherhome.net>";
+$recipient =	"Michael Fisher <michael@thefisherhome.net>, Jonathan Edwards <jedwards@borocitychurch.com>";
 
 //Assign fields to variables
 $name = strip_tags($_POST["name"]);
