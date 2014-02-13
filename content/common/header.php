@@ -44,10 +44,10 @@
 		    </div>
 
 		    <!--Collect the nav links, forms, and other content for toggling-->
-		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		    <div class="collapse navbar-collapse" id="bs-navbar-collapse">
 		      <ul class="nav navbar-nav">
-		        <li class="active"><a href="#home" class="scroller">Home</a></li>
-		        <li><a href="#about" class="scroller">About</a></li>
+		        <li><a href="#home" class="smooth-scroll">Home</a></li>
+		        <li><a href="#about" class="smooth-scroll">About</a></li>
 		        <li><a href="#contact" data-toggle="modal" data-target="#contact">Contact</a></li>
 		      </ul>
 		      <ul class="nav navbar-nav navbar-right">
