@@ -1,0 +1,132 @@
+/* ----- Styles ----- */
+
+body {
+	color: #ffffff;
+	background-color: #555555;
+	/*background: url('../img/backgrounds/stump.jpg');*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+/*Navbar*/
+.navbar {
+	background-color: #333333;
+	border: none;
+}
+
+.navbar-brand {
+	padding: 5px 15px 5px 15px;
+}
+
+.navbar-brand img {
+	height: 40px;
+}
+
+.navbar-default .navbar-nav>.active>a {
+	background-color: #ee3f35;
+	color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #aaaaaa;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: #ffffff;
+}
+
+/*Content*/
+#content-container {
+	width: 100%;
+}
+
+/*Home*/
+#home {
+	padding: 50px 0;
+	background-color: #354044;
+	/*background: url('../img/backgrounds/stump.jpg');*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#home i, #about i {
+	border-radius: 1em;
+}
+
+#home-footer {
+	height: 175px;
+	line-height: 175px;
+	background-color: #222222;
+	text-align: center;
+}
+
+/*About*/
+#about {
+	padding-top: 50px;
+	background-color: #422222;
+	/*background: url('../img/backgrounds/stump.jpg');*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+/*Contact*/
+#contact .modal-content {
+	background-color: rgba(256,256,256,0.75);
+}
+
+#contact .modal-header {
+	border: none;
+}
+
+#contact-form label {
+	color: #404040;
+}
+
+#contact .modal-footer {
+	padding: 0;
+	border: none;
+}
+
+#contact-buttons {
+	float: left;
+}
+
+#submit-status {
+	line-height: 34px;
+}
+
+#submit-status .alert-success {
+border-color: #7ec97f;
+}
+
+#submit-status .alert-danger {
+border-color: #dd9a98;
+}
+
+/*Back To Top*/
+#back-to-top {
+	width: 100%;
+	position: fixed;
+	bottom: 3px;
+	text-align: center;
+}
+
+#back-to-top a {
+	padding: 15px 25px 5px 25px;
+	background-color: rgba(238,63,53,0.85);
+	color: #ffffff;
+	font-weight: bold;
+	border-radius: 1em 1em 0 0;
+}
+
+#back-to-top a:hover {
+	text-decoration: none;
+}
