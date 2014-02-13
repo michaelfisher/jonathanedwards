@@ -1,6 +1,6 @@
 <!--Back To Top-->
 <div id="back-to-top" class="container">
-	<a href="#home">Back To Top</a>
+	<a href="#home" class="smooth-scroll">Back To Top</a>
 </div>
 <!--End Back To Top-->
 
