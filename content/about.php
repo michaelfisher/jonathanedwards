@@ -16,6 +16,6 @@
 	</div><!--.container-->
 </section>
 <div id="about-footer" class="col-xs-12">
-	<p>This is the home footer</p>
+	<p>This is the about footer</p>
 </div>
 <!--End About-->

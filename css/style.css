@@ -77,6 +77,13 @@ body {
 	background-size: cover;
 }
 
+#about-footer {
+	height: 175px;
+	line-height: 175px;
+	background-color: #222222;
+	text-align: center;
+}
+
 /*Contact*/
 #contact .modal-content {
 	background-color: rgba(256,256,256,0.75);
