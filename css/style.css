@@ -65,17 +65,27 @@ body {
 
 .home-content {
 	height: 500px;
+	margin-bottom: 25px;
 	background-color: rgba(0,0,0,0.5);
 	border-radius: 10px;
 }
 
 #home-footer {
-	height: 175px;
+	min-height: 175px;
 	line-height: 175px;
 	background-color: #222222;
 	text-align: center;
-	font-size: 32px;
 	font-style: italic;
+}
+
+#home-footer p {
+	white-space: nowrap;
+	font-size: 5vw;
+}
+
+#home-footer i {
+	position: relative;
+	bottom: 10px;
 }
 
 /*About*/
@@ -99,17 +109,27 @@ body {
 
 .about-content {
 	height: 500px;
+	margin-bottom: 25px;
 	background-color: rgba(0,0,0,0.5);
 	border-radius: 10px;
 }
 
 #about-footer {
-	height: 175px;
+	min-height: 175px;
 	line-height: 175px;
 	background-color: #222222;
 	text-align: center;
-	font-size: 32px;
 	font-style: italic;
+}
+
+#about-footer p {
+	white-space: nowrap;
+	font-size: 5vw;
+}
+
+#about-footer i {
+	position: relative;
+	bottom: 10px;
 }
 
 /*Contact*/
