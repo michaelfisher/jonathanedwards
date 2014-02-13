@@ -1,7 +1,7 @@
 <?php
 
 //Desired recipient
-//$recipient = "Michael Fisher <michael@thefisherhome.net>, Chris Sy <csy@lifeinthestudio.com>";
+$recipient =	"Michael Fisher <michael@thefisherhome.net>";
 
 //Assign fields to variables
 $name = strip_tags($_POST["name"]);
@@ -15,7 +15,7 @@ if (!empty ($_POST["name"])
 ) {
 	 
 	//Compile components of the email
-	$headers = 	"From: HeavenlyLevels.com <no-reply@heavenlylevels.com>\n";
+	$headers = 	"From: Contact Form <no-reply@whateveryoudliketobehere.com>\n";
 	$headers .= "Reply-To: $sender";
 
 	$subject = 	"New Message From: $name";
