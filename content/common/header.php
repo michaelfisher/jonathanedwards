@@ -40,7 +40,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		      </button>
-		      <a class="navbar-brand" href="#"><img src="img/logos/brand.png"></a>
+		      <a class="navbar-brand smooth-scroll" href="#home"><img src="img/logos/brand.png"></a>
 		    </div>
 
 		    <!--Collect the nav links, forms, and other content for toggling-->
