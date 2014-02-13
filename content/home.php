@@ -1,21 +1,16 @@
 <!--Home-->
-<section id="home" class="col-xs-12">
+<section id="home" class="col-xs-12 content">
 	<div class="container">
-		<h1>Home</h1>
-		<div class="col-xs-6">
-			<p>
-				<i class="fa fa-quote-left fa-2x fa-flip-vertical fa-border pull-left"></i>
-				If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live."
-			</p>
+		<h1 id="home-header">Home</h1>
+		<div class="col-md-6 col-xs-12">
+			<div class="home-content"></div>
 		</div>
-		<div class="col-xs-6">
-			<p>
-				If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live." If we know God is real, let's pray as if he's actually listening. If we know he's good, let's reflect that goodness in the world. When our problems feel big, let's lean on the One who is bigger. Is that risky? "Sure," says Owen Strachan. "Embrace it anyway. It's literally the only way to live."
-			</p>
+		<div class="col-md-6 col-xs-12">
+			<div class="home-content"></div>
 		</div>
 	</div><!--.container-->
 </section>
 <div id="home-footer" class="col-xs-12">
-	<p>This is the home footer</p>
+	<p><i class="fa fa-quote-left"></i> This is the 'Home' footer. <i class="fa fa-quote-right"></i></p>
 </div>
 <!--End Home-->
