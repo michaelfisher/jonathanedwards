@@ -7,7 +7,7 @@
 		<meta name="author" content="">
 		<link rel="shortcut icon" href="favicon.png">
 
-		<title>Site Title</title>
+		<title>LEFT | Edwards</title>
 
 		<!--Bootstrap core CSS-->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
