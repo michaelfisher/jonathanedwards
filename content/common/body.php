@@ -2,10 +2,8 @@
 	<div class="row">
 
 		<?php include 'content/home.php'; ?>
-
-		<?php include 'content/about.php'; ?>
-
-		<?php include 'content/contact-modal.php'; ?>
+		<?php include 'content/why.php'; ?>
+		<?php include 'content/endorsements.php'; ?>
 
 	</div><!--.row-->
 </div><!--#content-container-->

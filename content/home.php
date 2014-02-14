@@ -1,16 +1,23 @@
 <!--Home-->
-<section id="home" class="col-xs-12 content">
-	<div class="container">
-		<h1 id="home-header">Home</h1>
-		<div class="col-md-6 col-xs-12">
-			<div class="home-content"></div>
+<div id="home" class="col-xs-12">
+	
+	<div id="home-content">
+
+		<img src="img/content/left-overlay.png">
+
+		<div id="home-buttons" class="container">
+			<ul>
+				<li class="col-sm-6 col-xs-12"><button class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-shopping-cart"></span> Order Now</button></li>
+				<li class="col-sm-6 col-xs-12"><button class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-download-alt"></span> First Chapter</button></li>
+			</ul>
 		</div>
-		<div class="col-md-6 col-xs-12">
-			<div class="home-content"></div>
-		</div>
-	</div><!--.container-->
-</section>
-<div id="home-footer" class="col-xs-12">
-	<p><i class="fa fa-quote-left"></i> This is the 'Home' footer. <i class="fa fa-quote-right"></i></p>
+
+	</div>
+	
 </div>
+
+<div id="home-footer" class="col-xs-12">
+	<p id="home-footer-quote">"Everyone knows someone who needs to read this." <span id="home-footer-credit">- David Horner</span></p>
+</div>
+
 <!--End Home-->

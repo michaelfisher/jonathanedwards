@@ -1,42 +1,45 @@
+/*Tan CMYK-25,40,65,0 HEX-#bf9959 RGB-191,153,89*/
+
 /* ----- Styles ----- */
 
 body {
-	color: #ffffff;
-	background-color: #555555;
-	/*background: url('../img/backgrounds/stump.jpg');*/
-	background-repeat: no-repeat;
-	background-position: center;
-	background-attachment: fixed;
-	background-size: cover;
+	
 }
-
 
 /*Navbar*/
 .navbar {
-	background-color: #333333;
+	background-color: #ffffff;
 	border: none;
 }
 
 .navbar-brand {
-	padding: 5px 15px 5px 15px;
+	padding: 7px 15px 7px 15px;
+	background-color: #bf9959;
 }
 
-.navbar-brand img {
-	height: 40px;
+.navbar-default .navbar-brand:hover {
+	background-color: #cfaf77;
+}
+
+.navbar-brand span {
+	color: #ffffff;
+	font-size: 32px;
 }
 
 .navbar-default .navbar-nav>.active>a {
-	background-color: #ee3f35;
+	background-color: #cfaf77;
 	color: #ffffff;
 }
 
 .navbar-default .navbar-nav>li>a {
-	color: #aaaaaa;
-	font-weight: bold;
+	color: #c0c0c0;
+	text-transform: uppercase;
+	font-size: 12px;
+	letter-spacing: 0.25em;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-	color: #ffffff;
+	color: #808080;
 }
 
 /*Content*/
@@ -48,44 +51,159 @@ body {
 #home {
 	padding: 50px 0;
 	background-color: #555555;
-	/*background: url('../img/backgrounds/stump.jpg');*/
+	background: url('../img/backgrounds/photo.jpg');
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: 0 0;
 	background-attachment: fixed;
 	background-size: cover;
 }
 
-#home-header {
-	margin-bottom: 25px;
+#home #home-content {
 	text-align: center;
-	font-weight: bold;
+}
+
+#home #home-content img {
+	margin-top: 50px;
+	width: 50%;
+	opacity: 0.8;
+}
+
+#home-buttons {
+	text-align: center;
+	width: 85%;
+}
+
+#home-buttons ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#home-buttons ul li {
+	display: inline;
+}
+
+#home-buttons ul li button {
+	margin-top: 10px;
 	text-transform: uppercase;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: bold;
 	letter-spacing: 0.25em;
 }
 
-.home-content {
-	height: 500px;
-	margin-bottom: 25px;
-	background-color: rgba(0,0,0,0.5);
-	border-radius: 10px;
+#home .btn-lg {
+	border: none;
+}
+
+#home-buttons ul li:first-child button {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+#home-buttons ul li:last-child button {
+	background-color: #bf9959;
+	color: #ffffff;
 }
 
 #home-footer {
-	min-height: 175px;
-	line-height: 175px;
-	background-color: #222222;
+	min-height: 100px;
+	background-color: #000000;
 	text-align: center;
+	line-height: 50px;
+}
+
+#home-footer-quote {
+	padding-top: 25px;
+	color: #ffffff;
+	font-size: 24px;
+	font-family: serif;
 	font-style: italic;
 }
 
-#home-footer p {
-	white-space: nowrap;
-	font-size: 5vw;
+#home-footer-credit {
+	color: #bf9959;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
 }
 
-#home-footer i {
-	position: relative;
-	bottom: 10px;
+/*Why*/
+#why {
+	background-color: #ffffff;
+	background: url('../img/backgrounds/texture.png');
+	background-repeat: repeat-y;
+	background-position: 0 0;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#why-header {
+	text-align: center;
+}
+
+#why-header h1 {
+	padding-top: 25px;
+	text-transform: uppercase;
+	font-size: 64px;
+	font-weight: bold;
+}
+
+#why-header h3 {
+	color: #bf9959;
+	font-family: serif;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#why-book {
+	margin-top: 25px;
+}
+
+#why-book img {
+	max-width: 75%;
+}
+
+#why-text {
+	margin-top: 75px;
+}
+
+#why-footer {
+	min-height: 100px;
+	background-color: #000000;
+	text-align: center;
+	line-height: 50px;
+}
+
+#why-footer-quote {
+	padding-top: 25px;
+	color: #ffffff;
+	font-size: 24px;
+	font-family: serif;
+	font-style: italic;
+}
+
+#why-footer-credit {
+	color: #bf9959;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+/*Endorsements*/
+#endorsements-header {
+	text-align: center;
+}
+
+#endorsements-header h1 {
+	padding-top: 25px;
+	text-transform: uppercase;
+	font-size: 64px;
+	font-weight: bold;
 }
 
 /*About*/
@@ -170,15 +288,18 @@ border-color: #dd9a98;
 #back-to-top {
 	width: 100%;
 	position: fixed;
-	bottom: 3px;
+	bottom: -2px;
 	text-align: center;
 }
 
+#back-to-top span {
+	font-size: 32px;
+}
+
 #back-to-top a {
-	padding: 15px 25px 5px 25px;
-	background-color: rgba(238,63,53,0.85);
+	padding: 20px 25px 0px 25px;
+	background-color: #bf9959;
 	color: #ffffff;
-	font-weight: bold;
 	border-radius: 1em 1em 0 0;
 }
 

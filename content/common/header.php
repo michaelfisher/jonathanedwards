@@ -26,7 +26,7 @@
 
 	</head>
 
-	<body>
+	<body data-spy="scroll" data-target="#bs-navbar-collapse">
 		
 		<!--Main Nav-->				
 		<nav id="main-nav" class="navbar navbar-default navbar-fixed-top">
@@ -40,19 +40,23 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		      </button>
-		      <a class="navbar-brand smooth-scroll" href="#home"><img src="img/logos/brand.png"></a>
+		      <a class="navbar-brand smooth-scroll" href="#home"><span class="glyphicon glyphicon-home"></span></a>
 		    </div>
 
 		    <!--Collect the nav links, forms, and other content for toggling-->
 		    <div class="collapse navbar-collapse" id="bs-navbar-collapse">
 		      <ul class="nav navbar-nav">
-		        <li><a href="#home" class="smooth-scroll">Home</a></li>
-		        <li><a href="#about" class="smooth-scroll">About</a></li>
-		        <li><a href="#contact" data-toggle="modal" data-target="#contact">Contact</a></li>
+		      	<li style="display: none;"><a href="#home"></a></li>
+		        <li><a href="#why" class="smooth-scroll">Why This Book?</a></li>
+		        <li><a href="#endorsements" class="smooth-scroll">Endorsements</a></li>
+		        <li><a href="#purchase" class="smooth-scroll">Purchase</a></li>
+		        <li><a href="#author" class="smooth-scroll">Author</a></li>
+		        <li><a href="#share" class="smooth-scroll">Share</a></li>
+		        <!--<li><a href="#contact" class="smooth-scroll">Contact</a></li>-->
 		      </ul>
-		      <ul class="nav navbar-nav navbar-right">
+		      <!--<ul class="nav navbar-nav navbar-right">
 		        <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Order</a></li>
-		      </ul>
+		      </ul>-->
 		    </div><!--.navbar-collapse-->
 		
 			</div><!--.container-->
