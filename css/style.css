@@ -146,7 +146,7 @@ body {
 #why-header h1 {
 	padding-top: 25px;
 	text-transform: uppercase;
-	font-size: 64px;
+	font-size: 6vw;
 	font-weight: bold;
 }
 
@@ -195,60 +195,48 @@ body {
 }
 
 /*Endorsements*/
+.endorsement {
+	margin-bottom: 25px;
+}
+
 #endorsements-header {
 	text-align: center;
+	margin-bottom: 50px;
 }
 
 #endorsements-header h1 {
 	padding-top: 25px;
 	text-transform: uppercase;
-	font-size: 64px;
+	font-size: 6vw;
 	font-weight: bold;
 }
 
-/*About*/
-#about {
-	padding: 50px 0;
-	background-color: #555555;
-	/*background: url('../img/backgrounds/stump.jpg');*/
-	background-repeat: no-repeat;
-	background-position: center;
-	background-attachment: fixed;
-	background-size: cover;
+#endorsements-container {
+	width: 85%;
 }
 
-#about-header {
-	margin-bottom: 25px;
-	text-align: center;
-	font-weight: bold;
+.endorsement-quote {
+	margin-bottom: 0;
+}
+
+.endorsement-author {
+	margin: 0 0 0 35px;
 	text-transform: uppercase;
-	letter-spacing: 0.25em;
+	font-size: 18px;
+	font-weight: bold;
 }
 
-.about-content {
-	height: 500px;
-	margin-bottom: 25px;
-	background-color: rgba(0,0,0,0.5);
-	border-radius: 10px;
+.twitter-link {
+	margin-left: 10px;
 }
 
-#about-footer {
-	min-height: 175px;
-	line-height: 175px;
-	background-color: #222222;
-	text-align: center;
-	font-style: italic;
+.endorsement-author-description {
+	margin: 0 0 0 35px;
+	color: #808080;
+	font-size: 12px;
 }
 
-#about-footer p {
-	white-space: nowrap;
-	font-size: 5vw;
-}
 
-#about-footer i {
-	position: relative;
-	bottom: 10px;
-}
 
 /*Contact*/
 #contact .modal-content {
@@ -284,7 +272,7 @@ border-color: #7ec97f;
 border-color: #dd9a98;
 }
 
-/*Back To Top*/
+/*Back To Top Button*/
 #back-to-top {
 	width: 100%;
 	position: fixed;
