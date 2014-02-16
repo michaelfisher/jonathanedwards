@@ -1,8 +1,8 @@
-<!--Back To Top
-<div id="back-to-top" class="container">
-	<a href="#home" class="smooth-scroll"><span class="glyphicon glyphicon-chevron-up"></span></a>
+<!--Copyright-->
+<div id="copyright" class="container">
+	<img src="img/logos/brand.png">
 </div>
-End Back To Top-->
+<!--End Back To Top-->
 
 		<!-- Bootstrap core JavaScript -->
 		<script src="js/jquery.js"></script>

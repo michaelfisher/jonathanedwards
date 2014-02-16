@@ -12,14 +12,12 @@
 		</ul>
 	</div>
 
-	<div id="purchase-images">
-		<div id="purchase-book" class="col-xs-6 col-xs-12">
-			<img src="img/content/book.png">
-		</div>
+	<div id="purchase-book" class="col-xs-6 col-xs-12">
+		<img src="img/content/book.png">
+	</div>
 
-		<div id="purchase-ebook" class="col-xs-6 col-xs-12">
-			<img src="img/content/ipad.png">
-		</div>
+	<div id="purchase-ebook" class="col-xs-6 col-xs-12">
+		<img src="img/content/ipad.png">
 	</div>
 	
 </div>
