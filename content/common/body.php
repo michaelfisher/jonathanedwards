@@ -4,6 +4,7 @@
 		<?php include 'content/home.php'; ?>
 		<?php include 'content/why.php'; ?>
 		<?php include 'content/endorsements.php'; ?>
+		<?php include 'content/purchase.php'; ?>
 
 	</div><!--.row-->
 </div><!--#content-container-->

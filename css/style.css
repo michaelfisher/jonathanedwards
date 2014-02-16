@@ -93,6 +93,7 @@ body {
 
 #home .btn-lg {
 	border: none;
+	padding: 15px 0;
 }
 
 #home-buttons ul li:first-child button {
@@ -236,6 +237,149 @@ body {
 	font-size: 12px;
 }
 
+#read-more-button {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+#read-more-button .btn-lg {
+	border: none;
+}
+
+#read-more-button .btn-default {
+	padding: 15px 75px;
+	background-color: #c0c0c0;
+	color: #ffffff;
+	text-transform: uppercase;
+	letter-spacing: 0.25em;
+	font-weight: 100;
+}
+
+#read-more-button .btn-default:hover {
+	background-color: #e0e0e0;
+}
+
+#endorsements-footer {
+	min-height: 100px;
+	background-color: #000000;
+	text-align: center;
+	line-height: 50px;
+}
+
+#endorsements-footer-quote {
+	padding-top: 25px;
+	color: #ffffff;
+	font-size: 24px;
+	font-family: serif;
+	font-style: italic;
+}
+
+#endorsements-footer-credit {
+	color: #bf9959;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+/*Purchase*/
+#purchase {
+	padding-bottom: 50px;
+	background-color: #ffffff;
+	background: url('../img/backgrounds/texture.png');
+	background-repeat: repeat-y;
+	background-position: 0 0;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#purchase-header {
+	text-align: center;
+}
+
+#purchase-header h1 {
+	padding-top: 25px;
+	text-transform: uppercase;
+	font-size: 6vw;
+	font-weight: bold;
+}
+
+#purchase-buttons {
+	margin-bottom: 50px;
+	text-align: center;
+	width: 85%;
+}
+
+#purchase-buttons ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#purchase-buttons ul li {
+	display: inline;
+}
+
+#purchase-buttons ul li button {
+	margin-top: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.25em;
+}
+
+#purchase .btn-lg {
+	border: none;
+	padding: 15px 0;
+}
+
+#purchase-buttons ul li:first-child button {
+	background-color: #c0c0c0;
+	color: #ffffff;
+}
+
+#purchase-buttons ul li:last-child button {
+	background-color: #bf9959;
+	color: #ffffff;
+}
+
+#purchase-book {
+	text-align: center;
+}
+
+#purchase-ebook {
+	text-align: center;
+}
+
+#purchase-book img {
+	max-width: 100%;
+}
+
+#purchase-ebook img {
+	max-width: 100%;
+}
+
+#purchase-footer {
+	min-height: 100px;
+	background-color: #000000;
+	text-align: center;
+	line-height: 50px;
+}
+
+#purchase-footer-quote {
+	padding-top: 25px;
+	color: #ffffff;
+	font-size: 24px;
+	font-family: serif;
+	font-style: italic;
+}
+
+#purchase-footer-credit {
+	color: #bf9959;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
 
 
 /*Contact*/
