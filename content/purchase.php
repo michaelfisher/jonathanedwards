@@ -17,7 +17,7 @@
 	</div>
 
 	<div id="purchase-ebook" class="col-xs-6 col-xs-12">
-		<img src="img/content/ipad.png">
+		<img src="img/content/ipad-book.png">
 	</div>
 	
 </div>

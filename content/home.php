@@ -8,7 +8,7 @@
 		<div id="home-buttons" class="container">
 			<ul>
 				<li class="col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-shopping-cart"></span> Order Now</a></li>
-				<li class="col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-download-alt"></span> First Chapter</a></li>
+				<li class="col-sm-6 col-xs-12"><a target="_blank" href="dl/LEFT_ch1.pdf" class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-download-alt"></span> First Chapter</a></li>
 			</ul>
 		</div>
 
