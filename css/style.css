@@ -24,7 +24,15 @@ body {
 	border: none;
 }
 
+.navbar-nav {
+	margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    float:none;
+}
+
 .navbar-brand {
+	margin-right: -44px;
 	padding: 5px 9px 4px 7px;
 	background-color: #bf9959;
 }
