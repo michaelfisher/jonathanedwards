@@ -31,7 +31,7 @@ body {
 
 .navbar-brand {
 	margin-right: -44px;
-	padding: 8px 9px 6px 5px;
+	padding: 11px 12px 8px 8px;
 	background-color: #bf9959;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 .navbar-toggle {
-	margin-top: 3px;
+
 }
 
 .navbar-default .navbar-nav>.active>a {
