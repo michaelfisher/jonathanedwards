@@ -94,7 +94,7 @@
 </div>
 
 <div id="endorsements-footer" class="col-xs-12">
-	<p id="endorsements-footer-quote">&#8220;My personal path of healing and recovery is still ongoing, but after reading <strong><em>LEFT</em></strong> I’m encouraged and reminded of the fact that the only way one can fully recover spiritually, mentally and emotionally from the effects of a broken background is found in the saving and restorative work of a loving, sovereign God and His Son, Jesus Christ.&#8221; <span id="endorsements-footer-credit">- Nathan, 26</span></p>
+	<p id="endorsements-footer-quote">&#8220;My personal path of healing and recovery is still ongoing, but after reading <strong><em>LEFT</em></strong> I’m encouraged and reminded of the fact that the only way one can fully recover spiritually, mentally and emotionally from the effects of a broken background is found in the saving and restorative work of a loving, sovereign God and His Son, Jesus Christ.&#8221; <span id="endorsements-footer-credit">-Nathan, 26</span></p>
 </div>
 
 <!--End Endorsements-->
