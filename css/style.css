@@ -16,9 +16,6 @@ body {
 }
 
 .navbar {
-	width: 75%;
-	margin: 0 auto;
-	height: 40px;
 	min-height: 40px;
 	background-color: #ffffff;
 	border: none;
@@ -29,11 +26,12 @@ body {
     display: table;
     table-layout: fixed;
     float:none;
+    text-align: center;
 }
 
 .navbar-brand {
 	margin-right: -44px;
-	padding: 5px 9px 4px 7px;
+	padding: 8px 9px 6px 5px;
 	background-color: #bf9959;
 }
 
@@ -56,8 +54,8 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a {
-	padding-top: 11px;
-	padding-bottom: 9px;
+	padding-top: 13px;
+	padding-bottom: 12px;
 	color: #c0c0c0;
 	text-transform: uppercase;
 	font-family: 'Locator-Light';
