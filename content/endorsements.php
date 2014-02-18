@@ -8,6 +8,12 @@
 	<div id="endorsements-container" class="container">
 		
 		<div class="endorsement">
+			<p class="endorsement-quote">&#8220;<strong><em>LEFT</em></strong> is a raw, well-written account of a heart-rending journey filled with gospel hope. Readers will find their own stories, in big or small ways, reflected in Jonathan's account of a young man seeking in everything what he could only find in Jesus.&#8221;</p>
+			<p class="endorsement-author">- J.D. Greear<a class="twitter-link" href="http://twitter.com"><i class="fa fa-twitter"></i></a></p>
+			<p class="endorsement-author-description">Lead Pastor, The Summit Church, and author of <em>Stop Asking Jesus Into Your Heart</em> and <em>Gospel: Recovering the Power that Made Christianity Revolutionary</em></p>
+		</div>
+
+		<div class="endorsement">
 			<p class="endorsement-quote">&#8220;Some call this generation &#8216;the fatherless generation&#8217;" And rightly so. If not orphaned, countless children are functionally fatherless. Abuse, abandonment, and neglect are all too familiar experiences for today's youth. These experiences are devastating. But there's hope. Jonathan points us to the fountain of hope and love in <strong><em>LEFT</em></strong>. By taking truth to struggle, Jonathan shows us that Jesus's grace sufficiently strengthens, sustains, and satisfies the believer in the midst of his or her grief and hardship.&#8221;</p>
 			<p class="endorsement-author">- Tony Merida<a class="twitter-link" href="http://twitter.com"><i class="fa fa-twitter"></i></a></p>
 			<p class="endorsement-author-description">Lead Pastor, Imago Dei Church, and author of <em>Faithful Preaching and Proclaiming Jesus</em></p>
@@ -70,6 +76,12 @@
 				<p class="endorsement-author-description">Director of Student Initiatives, North American Mission Board</p>
 			</div>
 
+			<!--<div class="endorsement">
+				<p class="endorsement-quote">&#8220;&#8221;</p>
+				<p class="endorsement-author">- Author<a class="twitter-link" href="http://twitter.com"><i class="fa fa-twitter"></i></a></p>
+				<p class="endorsement-author-description">Description</p>
+			</div>-->
+
 		</div><!--#read-more-->
 
 		<div id="read-more-button">
@@ -82,7 +94,7 @@
 </div>
 
 <div id="endorsements-footer" class="col-xs-12">
-	<p id="endorsements-footer-quote">"My personal path of healing and recovery is still ongoing, but after reading <strong><em>LEFT</em></strong> I’m encouraged and reminded of the fact that the only way one can fully recover spiritually, mentally and emotionally from the effects of a broken background is found in the saving and restorative work of a loving, sovereign God and His Son, Jesus Christ." <span id="endorsements-footer-credit">- Nathan, 26</span></p>
+	<p id="endorsements-footer-quote">&#8220;My personal path of healing and recovery is still ongoing, but after reading <strong><em>LEFT</em></strong> I’m encouraged and reminded of the fact that the only way one can fully recover spiritually, mentally and emotionally from the effects of a broken background is found in the saving and restorative work of a loving, sovereign God and His Son, Jesus Christ.&#8221; <span id="endorsements-footer-credit">- Nathan, 26</span></p>
 </div>
 
 <!--End Endorsements-->

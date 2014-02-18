@@ -11,13 +11,21 @@ body {
 }
 
 /*Navbar*/
+#main-nav {
+	width: 100%;
+}
+
 .navbar {
+	width: 75%;
+	margin: 0 auto;
+	height: 40px;
+	min-height: 40px;
 	background-color: #ffffff;
 	border: none;
 }
 
 .navbar-brand {
-	padding: 7px 15px 7px 15px;
+	padding: 5px 9px 4px 7px;
 	background-color: #bf9959;
 }
 
@@ -27,7 +35,7 @@ body {
 
 .navbar-brand span {
 	color: #ffffff;
-	font-size: 32px;
+	font-size: 28px;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -36,8 +44,11 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a {
+	padding-top: 11px;
+	padding-bottom: 9px;
 	color: #c0c0c0;
 	text-transform: uppercase;
+	font-family: 'Locator-Light';
 	font-size: 12px;
 	letter-spacing: 0.25em;
 }
@@ -89,9 +100,9 @@ body {
 #home-buttons ul li button {
 	margin-top: 10px;
 	text-transform: uppercase;
-	font-size: 14px;
+	font-size: 18px;
 	line-height: 18px;
-	font-weight: bold;
+	font-family: 'Locator-Light';
 	letter-spacing: 0.25em;
 }
 
@@ -111,17 +122,17 @@ body {
 }
 
 #home-footer {
-	min-height: 100px;
 	background-color: #000000;
 	text-align: center;
-	line-height: 50px;
+	line-height: 30px;
 }
 
 #home-footer-quote {
-	padding-top: 25px;
+	margin: 0;
+	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: serif;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 	font-style: italic;
 }
 
@@ -129,13 +140,12 @@ body {
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
-	font-family: sans-serif;
-	font-style: italic;
-	font-weight: bold;
+	font-family: 'Locator-Black-Italic-700';
 }
 
 /*Why*/
 #why {
+	padding: 50px 0;
 	background-color: #ffffff;
 	background: url('../img/backgrounds/texture.png');
 	background-repeat: repeat-y;
@@ -152,15 +162,15 @@ body {
 	padding-top: 25px;
 	text-transform: uppercase;
 	font-size: 6vw;
-	font-weight: bold;
+	font-family: 'Locator-Black-900';
 }
 
 #why-header h3 {
 	color: #bf9959;
 	font-family: serif;
 	font-size: 24px;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 	font-style: italic;
-	font-weight: bold;
 }
 
 #why-book {
@@ -173,20 +183,21 @@ body {
 
 #why-text {
 	margin-top: 75px;
+	font-family: 'Locator-Light';
 }
 
 #why-footer {
-	min-height: 100px;
 	background-color: #000000;
 	text-align: center;
-	line-height: 50px;
+	line-height: 30px;
 }
 
 #why-footer-quote {
-	padding-top: 25px;
+	margin: 0;
+	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: serif;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 	font-style: italic;
 }
 
@@ -194,14 +205,12 @@ body {
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
-	font-family: sans-serif;
-	font-style: italic;
-	font-weight: bold;
+	font-family: 'Locator-Black-Italic-700';
 }
 
 /*Endorsements*/
-.endorsement {
-	margin-bottom: 25px;
+#endorsements {
+	padding: 50px 0;
 }
 
 #endorsements-header {
@@ -213,22 +222,27 @@ body {
 	padding-top: 25px;
 	text-transform: uppercase;
 	font-size: 6vw;
-	font-weight: bold;
+	font-family: 'Locator-Black-900';
 }
 
 #endorsements-container {
 	width: 85%;
 }
 
+.endorsement {
+	margin-bottom: 35px;
+}
+
 .endorsement-quote {
-	margin-bottom: 0;
+	margin: 0 0 10px 0;
+	font-family: 'Locator-Light';
 }
 
 .endorsement-author {
 	margin: 0 0 0 35px;
 	text-transform: uppercase;
 	font-size: 18px;
-	font-weight: bold;
+	font-family: 'Locator-Black-900'
 }
 
 #endorsements .twitter-link {
@@ -255,8 +269,8 @@ body {
 	background-color: #c0c0c0;
 	color: #ffffff;
 	text-transform: uppercase;
+	font-family: 'Locator-Light';
 	letter-spacing: 0.25em;
-	font-weight: 100;
 }
 
 #read-more-button .btn-default:hover {
@@ -264,17 +278,17 @@ body {
 }
 
 #endorsements-footer {
-	min-height: 100px;
 	background-color: #000000;
 	text-align: center;
-	line-height: 50px;
+	line-height: 30px;
 }
 
 #endorsements-footer-quote {
-	padding-top: 25px;
+	margin: 0;
+	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: serif;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 	font-style: italic;
 }
 
@@ -282,14 +296,12 @@ body {
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
-	font-family: sans-serif;
-	font-style: italic;
-	font-weight: bold;
+	font-family: 'Locator-Black-Italic-700';
 }
 
 /*Purchase*/
 #purchase {
-	padding-bottom: 50px;
+	padding: 50px 0;
 	background-color: #ffffff;
 	background: url('../img/backgrounds/texture.png');
 	background-repeat: repeat-y;
@@ -307,7 +319,7 @@ body {
 	padding-top: 25px;
 	text-transform: uppercase;
 	font-size: 6vw;
-	font-weight: bold;
+	font-family: 'Locator-Black-900';
 }
 
 #purchase-buttons {
@@ -329,6 +341,7 @@ body {
 	margin-top: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.25em;
+	font-family: 'Locator-Light';
 }
 
 #purchase .btn-lg {
@@ -363,17 +376,17 @@ body {
 }
 
 #purchase-footer {
-	min-height: 100px;
 	background-color: #000000;
 	text-align: center;
-	line-height: 50px;
+	line-height: 30px;
 }
 
 #purchase-footer-quote {
-	padding-top: 25px;
+	margin: 0;
+	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: serif;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 	font-style: italic;
 }
 
@@ -381,14 +394,12 @@ body {
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
-	font-family: sans-serif;
-	font-style: italic;
-	font-weight: bold;
+	font-family: 'Locator-Black-Italic-700';
 }
 
 /*Author*/
 #author {
-	padding-bottom: 100px;
+	padding: 50px 0;
 }
 
 #author-header {
@@ -400,7 +411,7 @@ body {
 	padding-top: 25px;
 	text-transform: uppercase;
 	font-size: 6vw;
-	font-weight: bold;
+	font-family: 'Locator-Black-900';
 }
 
 #author-pic {
@@ -413,6 +424,7 @@ body {
 
 #author-text {
 	text-transform: uppercase;
+	font-family: 'Locator-Light';
 }
 
 #author .twitter-link {
@@ -420,17 +432,17 @@ body {
 }
 
 #author-footer {
-	min-height: 100px;
 	background-color: #000000;
 	text-align: center;
-	line-height: 50px;
+	line-height: 30px;
 }
 
 #author-footer-quote {
-	padding-top: 25px;
+	margin: 0;
+	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: serif;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 	font-style: italic;
 }
 
@@ -438,14 +450,12 @@ body {
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
-	font-family: sans-serif;
-	font-style: italic;
-	font-weight: bold;
+	font-family: 'Locator-Black-Italic-700';
 }
 
 /*Share*/
 #share {
-	padding-bottom: 50px;
+	padding: 50px 0;
 	background-color: #ffffff;
 	background: url('../img/backgrounds/texture-dark.png');
 	background-repeat: repeat-y;
@@ -464,13 +474,19 @@ body {
 	color: #ffffff;
 	text-transform: uppercase;
 	font-size: 6vw;
-	font-weight: bold;
+	font-family: 'Locator-Black-900';
+}
+
+#share-buttons ul {
+	list-style-type: none;
+	padding: 0;
 }
 
 #share-buttons ul li button {
 	margin-top: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.25em;
+	font-family: 'Locator-Light';
 }
 
 #share .btn-lg {

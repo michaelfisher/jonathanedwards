@@ -15,6 +15,10 @@
 		<!--Font Awesome-->
 		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
 
+		<!--Locator-->
+		<link href="css/locator-light.css" rel="stylesheet">
+		<link href="css/locator-black.css" rel="stylesheet">
+
 		<!--Custom styles for this template-->
 		<link href="css/style.css" rel="stylesheet">
 

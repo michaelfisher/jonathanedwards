@@ -23,7 +23,7 @@
 </div>
 
 <div id="purchase-footer" class="col-xs-12">
-	<p id="purchase-footer-quote">"If you want to feel heard, understood, and more importantly set free from the wounds of divorce, you'll find your story intersecting with God's in the pages of <strong><em>LEFT</em></strong>." <span id="purchase-footer-credit">- Ashley, 28</span></p>
+	<p id="purchase-footer-quote">&#8220;If you want to feel heard, understood, and more importantly set free from the wounds of divorce, you'll find your story intersecting with God's in the pages of <strong><em>LEFT</em></strong>.&#8221; <span id="purchase-footer-credit">- Ashley, 28</span></p>
 </div>
 
 <!--End Purchase-->

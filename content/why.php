@@ -18,17 +18,17 @@
 			But his clothes weren't there. Our laundry basket didn't have any of his t-shirts or pants or socks. All the clothes in the basket were too small for him. We didn't have any daddy clothes to wash.
 		</p>
 		<p>
-			<strong>Because he left us.</strong>
+			<strong><em>Because he left us.</em></strong>
 		</p>
 		<p>
-			<strong>And I will never forget it.</strong>
+			<strong><em>And I will never forget it.</em></strong>
 		</p>
 	</div>
 	
 </div>
 
 <div id="why-footer" class="col-xs-12">
-	<p id="why-footer-quote">"I haven't talked to my dad for some time now, and after reading this book and meditating in prayer, I've decided to contact him and forgive him." <span id="why-footer-credit">- Holt, 21</span></p>
+	<p id="why-footer-quote">&#8220;I haven't talked to my dad for some time now, and after reading this book and meditating in prayer, I've decided to contact him and forgive him.&#8221; <span id="why-footer-credit">- Holt, 21</span></p>
 </div>
 
 <!--End Why-->

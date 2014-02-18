@@ -17,7 +17,7 @@
 </div>
 
 <div id="home-footer" class="col-xs-12">
-	<p id="home-footer-quote">"Everyone knows someone who needs to read this." <span id="home-footer-credit">- David Horner</span></p>
+	<p id="home-footer-quote">&#8220;Everyone knows someone who needs to read this.&#8221; <span id="home-footer-credit">- David Horner</span></p>
 </div>
 
 <!--End Home-->
