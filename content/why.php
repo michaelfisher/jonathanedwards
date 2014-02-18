@@ -3,7 +3,7 @@
 
 	<div id="why-header" class="col-xs-12">
 		<h1>Why This Book?</h1>
-		<h3>"Just like that, he was gone. And just like that, there I was...left."</h3>
+		<h3>&#8220;Just like that, he was gone. And just like that, there I was...left.&#8221;</h3>
 	</div>
 
 	<div id="why-book" class="col-sm-5 col-sm-offset-1 col-xs-12">
