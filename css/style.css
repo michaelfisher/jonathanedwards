@@ -509,13 +509,18 @@ body {
 	padding: 15px 0;
 }
 
-#share-buttons ul li:first-child a {
+#facebook-share-button {
 	background-color: #3b5999;
 	color: #ffffff;
 }
 
-#share-buttons ul li:last-child a {
+#twitter-share-button {
 	background-color: #4099ff;
+	color: #ffffff;
+}
+
+#pinterest-share-button {
+	background-color: #c92228;
 	color: #ffffff;
 }
 
