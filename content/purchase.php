@@ -7,8 +7,8 @@
 
 	<div id="purchase-buttons" class="container">
 		<ul>
-			<li class="col-sm-6 col-xs-12"><button class="btn btn-block btn-lg btn-default">Hard Copy</button></li>
-			<li class="col-sm-6 col-xs-12"><button class="btn btn-block btn-lg btn-default">Ebook</button></li>
+			<li class="col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default">Hard Copy</a></li>
+			<li class="col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default">Ebook</a></li>
 		</ul>
 	</div>
 

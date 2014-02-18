@@ -54,8 +54,8 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a {
-	padding-top: 13px;
-	padding-bottom: 12px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	color: #c0c0c0;
 	text-transform: uppercase;
 	font-family: 'Locator-Light';
@@ -107,7 +107,7 @@ body {
 	display: inline;
 }
 
-#home-buttons ul li button {
+#home-buttons ul li a {
 	margin-top: 10px;
 	text-transform: uppercase;
 	font-size: 15px;
@@ -121,12 +121,12 @@ body {
 	padding: 15px 0;
 }
 
-#home-buttons ul li:first-child button {
+#home-buttons ul li:first-child a {
 	background-color: #ffffff;
 	color: #000000;
 }
 
-#home-buttons ul li:last-child button {
+#home-buttons ul li:last-child a {
 	background-color: #bf9959;
 	color: #ffffff;
 }
@@ -347,7 +347,7 @@ body {
 	display: inline;
 }
 
-#purchase-buttons ul li button {
+#purchase-buttons ul li a {
 	margin-top: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.25em;
@@ -359,12 +359,12 @@ body {
 	padding: 15px 0;
 }
 
-#purchase-buttons ul li:first-child button {
+#purchase-buttons ul li:first-child a {
 	background-color: #c0c0c0;
 	color: #ffffff;
 }
 
-#purchase-buttons ul li:last-child button {
+#purchase-buttons ul li:last-child a {
 	background-color: #bf9959;
 	color: #ffffff;
 }
@@ -433,8 +433,13 @@ body {
 }
 
 #author-text {
+	margin-top: 50px;
 	text-transform: uppercase;
 	font-family: 'Locator-Light';
+}
+
+#author-twitter {
+	text-align: center;
 }
 
 #author .twitter-link {
@@ -492,7 +497,7 @@ body {
 	padding: 0;
 }
 
-#share-buttons ul li button {
+#share-buttons ul li a {
 	margin-top: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.25em;
@@ -504,12 +509,12 @@ body {
 	padding: 15px 0;
 }
 
-#share-buttons ul li:first-child button {
+#share-buttons ul li:first-child a {
 	background-color: #3b5999;
 	color: #ffffff;
 }
 
-#share-buttons ul li:last-child button {
+#share-buttons ul li:last-child a {
 	background-color: #4099ff;
 	color: #ffffff;
 }
