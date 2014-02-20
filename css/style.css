@@ -419,6 +419,20 @@ body {
 	overflow-y: auto !important;
 }
 
+#purchase-modal .modal-header h4 {
+	text-transform: uppercase;
+	text-align: center;
+	font-family: 'Locator-Black-900';
+}
+
+#purchase-modal .modal-body {
+	font-family: 'Locator-Light';
+}
+
+#purchase-modal .modal-footer button {
+	font-family: 'Locator-Light';
+}
+
 /*Author*/
 #author {
 	padding: 50px 0;
