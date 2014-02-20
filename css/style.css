@@ -416,7 +416,7 @@ body {
 }
 
 #purchase-modal {
-	overflow-y: auto;
+	overflow-y: auto !important;
 }
 
 /*Author*/
