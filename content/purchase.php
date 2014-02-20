@@ -23,7 +23,25 @@
 </div>
 
 <div id="purchase-footer" class="col-xs-12">
-	<p id="purchase-footer-quote">&#8220;If you want to feel heard, understood, and more importantly set free from the wounds of divorce, you'll find your story intersecting with God's in the pages of <strong><em>LEFT</em></strong>.&#8221; <span id="purchase-footer-credit">-Ashley, 28</span></p>
+	<p id="purchase-footer-quote">&#8220;If you want to feel heard, understood, and more importantly set free from the wounds of divorce, you'll find your story intersecting with God's in the pages of <strong><em>LEFT</em></strong>.&#8221; <span id="purchase-footer-credit">Ashley, 28</span></p>
 </div>
 
 <!--End Purchase-->
+
+<!--Purchase Modal-->
+<div id="purchase-modal" class="modal fade" tabindex="-1">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+				<h4>Modal Header</h4>
+			</div>
+			<div class="modal-body">
+				Modal content here...
+			</div>
+	      	<div class="modal-footer">
+	      		<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	      	</div>			
+		</div>
+	</div>
+</div><!--End Purchase Modal-->

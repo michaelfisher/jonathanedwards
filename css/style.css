@@ -147,6 +147,8 @@ body {
 }
 
 #home-footer-credit {
+	margin-left: 10px;
+	white-space: nowrap;
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
@@ -212,6 +214,8 @@ body {
 }
 
 #why-footer-credit {
+	margin-left: 10px;
+	white-space: nowrap;
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
@@ -303,6 +307,8 @@ body {
 }
 
 #endorsements-footer-credit {
+	margin-left: 10px;
+	white-space: nowrap;
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
@@ -401,10 +407,16 @@ body {
 }
 
 #purchase-footer-credit {
+	margin-left: 10px;
+	white-space: nowrap;
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
 	font-family: 'Locator-Black-Italic-700';
+}
+
+#purchase-modal {
+	overflow-y: auto;
 }
 
 /*Author*/
@@ -462,6 +474,8 @@ body {
 }
 
 #author-footer-credit {
+	margin-left: 10px;
+	white-space: nowrap;
 	color: #bf9959;
 	font-size: 14px;
 	text-transform: uppercase;
@@ -534,61 +548,4 @@ body {
 
 #copyright img {
 	max-height: 75%;
-}
-
-/*Contact*/
-#contact .modal-content {
-	background-color: rgba(256,256,256,0.75);
-}
-
-#contact .modal-header {
-	border: none;
-}
-
-#contact-form label {
-	color: #404040;
-}
-
-#contact .modal-footer {
-	padding: 0;
-	border: none;
-}
-
-#contact-buttons {
-	float: left;
-}
-
-#submit-status {
-	line-height: 34px;
-}
-
-#submit-status .alert-success {
-border-color: #7ec97f;
-}
-
-#submit-status .alert-danger {
-border-color: #dd9a98;
-}
-
-/*Back To Top Button*/
-#back-to-top {
-	width: 100%;
-	position: fixed;
-	bottom: -2px;
-	text-align: center;
-}
-
-#back-to-top span {
-	font-size: 32px;
-}
-
-#back-to-top a {
-	padding: 20px 25px 0px 25px;
-	background-color: #bf9959;
-	color: #ffffff;
-	border-radius: 1em 1em 0 0;
-}
-
-#back-to-top a:hover {
-	text-decoration: none;
 }

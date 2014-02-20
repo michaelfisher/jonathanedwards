@@ -19,7 +19,7 @@
 </div>
 
 <div id="author-footer" class="col-xs-12">
-	<p id="author-footer-quote">&#8220;There were many times I wanted to stop reading. Memories of pain and fear almost suffocated me. But in my anguish I found healing. That’s how the gospel works though. Paradoxical. The way down is the way up.&#8221; <span id="author-footer-credit">-Justin, 35</span></p>
+	<p id="author-footer-quote">&#8220;There were many times I wanted to stop reading. Memories of pain and fear almost suffocated me. But in my anguish I found healing. That’s how the gospel works though. Paradoxical. The way down is the way up.&#8221; <span id="author-footer-credit">Justin, 35</span></p>
 </div>
 
 <!--End Why-->
