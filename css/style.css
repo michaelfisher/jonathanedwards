@@ -56,7 +56,7 @@ body {
 .navbar-default .navbar-nav>li>a {
 	padding-top: 15px;
 	padding-bottom: 15px;
-	color: #c0c0c0;
+	color: #808080;
 	text-transform: uppercase;
 	font-family: 'Locator-Light';
 	font-size: 12px;
@@ -64,7 +64,7 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-	color: #808080;
+	color: #404040;
 }
 
 /*Content*/
