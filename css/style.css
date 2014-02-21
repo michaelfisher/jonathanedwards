@@ -543,8 +543,21 @@ body {
 	background-color: #000000;
 }
 
-#copyright img {
+#footer-logo img {
 	max-height: 75%;
+}
+
+#site-credit {
+	display: none;
+	position: relative;
+	bottom: -75px;
+	line-height: 25px;
+}
+
+#site-credit a {
+	color: #202020;
+	text-decoration: none;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 /*Purchase Modal*/
