@@ -4,21 +4,21 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h4>Modal Header</h4>
+				<h4>Choose A Format</h4>
 			</div>
 			<div class="modal-body">
 				<ul>
 					<li class="col-sm-4 col-xs-12">
-						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
-						<button type="button" class="btn btn-default">Test</button>
+						<a href="#" class="btn btn-default">EPUB</a>
+						<p>EPUB files will display on Apple devices, via iBooks, and many other ebook readers.</p>
 					</li>
 					<li class="col-sm-4 col-xs-12">
-						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
-						<button type="button" class="btn btn-default">Test</button>
+						<a href="#" class="btn btn-default">MOBI</a>
+						<p>MOBI files will display on Amazon's Kindle devices, as well as on other devices with the Kindle app.</p>
 					</li>
 					<li class="col-sm-4 col-xs-12">
-						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
-						<button type="button" class="btn btn-default">Test</button>
+						<a href="#" class="btn btn-default">PDF</a>
+						<p>PDF files will display on just about any device. If the others don't work for you, give this one a try.</p>
 					</li>
 				</ul>
 			</div>

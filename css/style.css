@@ -1,11 +1,6 @@
 /*Tan CMYK-25,40,65,0 HEX-#bf9959 RGB-191,153,89*/
 
 /* ----- Styles ----- */
-
-body {
-	
-}
-
 .twitter-link {
 	color: #4099ff;
 }
@@ -121,12 +116,12 @@ body {
 	padding: 15px 0;
 }
 
-#home-buttons ul li:first-child a {
+#order-now-button {
 	background-color: #ffffff;
 	color: #000000;
 }
 
-#home-buttons ul li:last-child a {
+#download-preview-button {
 	background-color: #bf9959;
 	color: #ffffff;
 }
@@ -142,7 +137,8 @@ body {
 	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-family: "Times New Roman", serif;
+	/*font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;*/
 	font-style: italic;
 }
 
@@ -615,11 +611,23 @@ body {
 }
 
 #preview-modal ul li {
+	display: inline;
 	margin-bottom: 15px;
 }
 
-#preview-modal ul li button {
+#preview-modal ul li a {
 	width: 100%;
+	background-color: #bf9959;
+	color: #ffffff;
+}
+
+#preview-modal ul li a.btn {
+	border: none;
+}
+
+#preview-modal ul li p {
+	margin-top: 15px;
+	text-align: justify;
 }
 
 #preview-modal .modal-footer button {

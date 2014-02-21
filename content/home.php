@@ -7,8 +7,8 @@
 
 		<div id="home-buttons" class="container">
 			<ul>
-				<li class="col-sm-6 col-xs-12"><a data-toggle="modal" data-target="#purchase-modal" class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-shopping-cart"></span> Order Now</a></li>
-				<li class="col-sm-6 col-xs-12"><a data-toggle="modal" data-target="#preview-modal" class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-download-alt"></span> First Chapter</a></li>
+				<li class="col-sm-6 col-xs-12"><a id="order-now-button" data-toggle="modal" data-target="#purchase-modal" class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-shopping-cart"></span> Order Now</a></li>
+				<li class="col-sm-6 col-xs-12"><a id="download-preview-button" data-toggle="modal" data-target="#preview-modal" class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-gift"></span> Free Chapter</a></li>
 			</ul>
 		</div>
 
