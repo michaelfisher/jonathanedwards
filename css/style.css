@@ -73,7 +73,7 @@
 	background-color: #555555;
 	background: url('../img/backgrounds/photo-small.jpg');
 	background-repeat: no-repeat;
-	background-position: top center;
+	/*background-position: top center;*/
 	background-attachment: fixed;
 	background-size: cover;
 }
