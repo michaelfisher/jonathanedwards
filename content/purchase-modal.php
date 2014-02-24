@@ -9,7 +9,7 @@
 			<div class="modal-body">
 				<ul>
 					<li class="col-xs-12">
-						<h2 style="font-weight: normal;">Stay tuned for the release date.</h2>
+						<h2 style="font-family: Locator-Light; font-weight: normal;">Stay tuned for the release date.</h2>
 					</li>
 				</ul>
 			</div>
