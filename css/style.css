@@ -71,9 +71,9 @@
 #home {
 	padding: 50px 0;
 	background-color: #555555;
-	background-image: url('../img/backgrounds/photo.jpg');
+	background: url('../img/backgrounds/photo.jpg');
 	background-repeat: no-repeat;
-	background-position: 25% 0;
+	background-position: 0 0;
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -137,7 +137,8 @@
 	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-family: "Times New Roman", serif;
+	/*font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;*/
 	font-style: italic;
 }
 
@@ -158,6 +159,7 @@
 	background-repeat: repeat-y;
 	background-position: 0 0;
 	background-attachment: fixed;
+	background-size: cover;
 }
 
 #why-header {
@@ -188,7 +190,7 @@
 }
 
 #why-text {
-	margin-top: 25px;
+	margin-top: 75px;
 	font-family: 'Locator-Light';
 }
 
@@ -318,6 +320,7 @@
 	background-repeat: repeat-y;
 	background-position: 0 0;
 	background-attachment: fixed;
+	background-size: cover;
 }
 
 #purchase-header {
