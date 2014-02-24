@@ -4,21 +4,12 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h4>Modal Header</h4>
+				<h4>Coming Soon!</h4>
 			</div>
 			<div class="modal-body">
 				<ul>
-					<li class="col-sm-4 col-xs-12">
-						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
-						<button type="button" class="btn btn-default">Test</button>
-					</li>
-					<li class="col-sm-4 col-xs-12">
-						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
-						<button type="button" class="btn btn-default">Test</button>
-					</li>
-					<li class="col-sm-4 col-xs-12">
-						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
-						<button type="button" class="btn btn-default">Test</button>
+					<li class="col-xs-12">
+						<h2 style="font-weight: normal;">Stay tuned for the release date.</h2>
 					</li>
 				</ul>
 			</div>

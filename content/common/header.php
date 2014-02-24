@@ -3,11 +3,13 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="">
-		<meta name="author" content="">
+		<meta name="keywords" content="abandonment,parent,left,struggle">
+		<meta name="description" content="The struggle to make sense of life when a parent leaves.">
+		<meta name="author" content="Jonathan Edwards">
+		<meta name="title" content="LEFT | Jonathan Edwards">
 		<link rel="shortcut icon" href="favicon.png">
 
-		<title>LEFT | Edwards</title>
+		<title>LEFT | Jonathan Edwards</title>
 
 		<!--Bootstrap core CSS-->
 		<link href="css/bootstrap.min.css" rel="stylesheet">

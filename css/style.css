@@ -568,6 +568,7 @@
 }
 
 #purchase-modal .modal-body {
+	text-align: center;
 	font-family: 'Locator-Light';
 	overflow-y: auto;
 }
