@@ -71,7 +71,7 @@
 #home {
 	padding: 50px 0;
 	background-color: #555555;
-	background: url('../img/backgrounds/photo-smaller.jpg');
+	background-image: url('../img/backgrounds/photo-smaller.jpg');
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	background-attachment: fixed;
