@@ -70,12 +70,12 @@
 /*Home*/
 #home {
 	padding: 50px 0;
-	background-color: #555555;
 	background: url('../img/backgrounds/photo.jpg');
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	background-attachment: fixed;
 	background-size: cover;
+	background-color: #202020;
 }
 
 #home #home-content {
@@ -190,7 +190,7 @@
 }
 
 #why-text {
-	margin-top: 75px;
+	margin-top: 25px;
 	font-family: 'Locator-Light';
 }
 
@@ -478,12 +478,12 @@
 /*Share*/
 #share {
 	padding: 50px 0;
-	background-color: #ffffff;
 	background: url('../img/backgrounds/texture-dark.png');
 	background-repeat: repeat-y;
 	background-position: 0 0;
 	background-attachment: fixed;
 	background-size: cover;
+	background-color: #202020;
 }
 
 #share-header {
@@ -632,4 +632,41 @@
 
 #preview-modal .modal-footer button {
 	font-family: 'Locator-Light';
+}
+
+/*Custom Media Queries*/
+@media(max-width:767px){
+	#home {
+		background-image: none;
+	}
+	#why-header h1 {
+		font-size: 10vw;
+	}
+	#endorsements-header h1 {
+		font-size: 10vw;
+	}
+	#purchase-header h1 {
+		font-size: 10vw;
+	}
+	#author-header h1 {
+		font-size: 10vw;
+	}
+	#share {
+		background-image: none;
+	}
+	#share-header h1 {
+		font-size: 10vw;
+	}
+}
+
+@media(min-width:768px) and (max-width:991px){
+	
+}
+
+@media(min-width:992px) and (max-width:1199px){
+
+}
+
+@media(min-width:1200px){
+
 }
