@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="keywords" content="abandonment,parent,left,struggle">
-		<meta name="description" content="&#8220;Just like that, he was gone. And just like that, there I was...left.&#8221; The struggle to make sense of life when a parent leaves.">
+		<meta name="keywords" content="left,jonathan edwards,book,abandonment,parent,leave,struggle">
+		<meta name="description" content="Just like that, he was gone. And just like that, there I was...left. The struggle to make sense of life when a parent leaves.">
 		<meta name="author" content="Jonathan Edwards">
 		<meta name="title" content="LEFT | Jonathan Edwards">
 		<link rel="shortcut icon" href="favicon.png">
