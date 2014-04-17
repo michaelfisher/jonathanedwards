@@ -28,7 +28,7 @@
 </div>
 
 <div id="why-footer" class="col-xs-12">
-	<p id="why-footer-quote">&#8220;I haven't talked to my dad for some time now, and after reading this book and meditating in prayer, I've decided to contact him and forgive him.&#8221; <span id="why-footer-credit">Holt, 21</span></p>
+	<p id="why-footer-quote">&#8220;I haven't talked to my dad for some time now, and after reading this book and meditating in prayer, I've decided to contact him and forgive him.&#8221; <span id="why-footer-credit">- Holt, 21</span></p>
 </div>
 
 <!--End Why-->

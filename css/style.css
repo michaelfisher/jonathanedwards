@@ -51,7 +51,7 @@
 .navbar-default .navbar-nav>li>a {
 	padding-top: 15px;
 	padding-bottom: 15px;
-	color: #808080;
+	color: #404040;
 	text-transform: uppercase;
 	font-family: 'Locator-Light';
 	font-size: 12px;
@@ -59,7 +59,7 @@
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-	color: #404040;
+	color: #808080;
 }
 
 /*Content*/
@@ -69,7 +69,7 @@
 
 /*Home*/
 #home {
-	padding: 50px 0;
+	padding: 50px 0 100px 0;
 	background: url('../img/backgrounds/photo.jpg');
 	background-repeat: no-repeat;
 	background-position: 0 0;
@@ -137,7 +137,7 @@
 	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: "Times New Roman", serif;
+	font-family: 'Locator-Black-Italic-700';
 	/*font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;*/
 	font-style: italic;
 }
@@ -153,7 +153,7 @@
 
 /*Why*/
 #why {
-	padding: 50px 0;
+	padding: 50px 0 100px 0;
 	background-color: #ffffff;
 	background: url('../img/backgrounds/texture.png');
 	background-repeat: repeat-y;
@@ -177,7 +177,7 @@
 	color: #bf9959;
 	font-family: serif;
 	font-size: 24px;
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-family: 'Locator-Black-Italic-700';
 	font-style: italic;
 }
 
@@ -205,7 +205,7 @@
 	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-family: 'Locator-Black-Italic-700';
 	font-style: italic;
 }
 
@@ -220,7 +220,7 @@
 
 /*Endorsements*/
 #endorsements {
-	padding: 50px 0;
+	padding: 50px 0 100px 0;
 }
 
 #endorsements-header {
@@ -263,7 +263,7 @@
 	margin: 0 0 0 35px;
 	color: #808080;
 	font-size: 12px;
-	font-family: 'Courier New', Courier, monospace;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 #read-more-button {
@@ -299,7 +299,7 @@
 	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-family: 'Locator-Black-Italic-700';
 	font-style: italic;
 }
 
@@ -314,7 +314,7 @@
 
 /*Purchase*/
 #purchase {
-	padding: 50px 0;
+	padding: 50px 0 100px 0;
 	background-color: #ffffff;
 	background: url('../img/backgrounds/texture.png');
 	background-repeat: repeat-y;
@@ -399,7 +399,7 @@
 	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-family: 'Locator-Black-Italic-700';
 	font-style: italic;
 }
 
@@ -414,7 +414,7 @@
 
 /*Author*/
 #author {
-	padding: 50px 0;
+	padding: 50px 0 100px 0;
 }
 
 #author-header {
@@ -462,7 +462,7 @@
 	padding: 25px 0;
 	color: #ffffff;
 	font-size: 24px;
-	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-family: 'Locator-Black-Italic-700';
 	font-style: italic;
 }
 
@@ -477,13 +477,13 @@
 
 /*Share*/
 #share {
-	padding: 50px 0;
-	background: url('../img/backgrounds/texture-dark.png');
+	padding: 50px 0 100px 0;
+	background-color: #ffffff;
+	background: url('../img/backgrounds/texture.png');
 	background-repeat: repeat-y;
 	background-position: 0 0;
 	background-attachment: fixed;
 	background-size: cover;
-	background-color: #202020;
 }
 
 #share-header {
@@ -493,7 +493,6 @@
 
 #share-header h1 {
 	padding-top: 25px;
-	color: #ffffff;
 	text-transform: uppercase;
 	font-size: 6vw;
 	font-family: 'Locator-Black-900';
@@ -540,7 +539,7 @@
 }
 
 #footer-logo img {
-	max-height: 75%;
+	max-height: 65px;
 }
 
 #site-credit {

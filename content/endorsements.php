@@ -73,7 +73,7 @@
 			<div class="endorsement">
 				<p class="endorsement-quote">&#8220;In <strong><em>LEFT</em></strong>, Jonathan Edwards does something that is hard to do; take us through the storm of divorce and abandonment, show us the ugly aftermath, and carry us into the hope of a bright tomorrow that only Christ can bring. To get there, Jonathan must tear into some old wounds for our benefit and for the benefit for those yet to travel this lonely, often puzzling journey. Out of the stark reality of brokenness comes hope and out of the despair of a difficult past comes a future of promise. If you have been on this road or know someone currently walking it, LEFT is both a reminder of the destruction we can bring to each other and the promise that those scars can become markers toward a joyful next step.&#8221;</p>
 				<p class="endorsement-author">- Steve Turner<a class="twitter-link" target="_blank" href="http://twitter.com/mobilizersteve"><i class="fa fa-twitter"></i></a></p>
-				<p class="endorsement-author-description">Director of Student Initiatives, North American Mission Board</p>
+				<p class="endorsement-author-description">Director of Campus Mobilization, North American Mission Board</p>
 			</div>
 
 			<!--<div class="endorsement">
@@ -94,7 +94,7 @@
 </div>
 
 <div id="endorsements-footer" class="col-xs-12">
-	<p id="endorsements-footer-quote">&#8220;My personal path of healing and recovery is still ongoing, but after reading <strong><em>LEFT</em></strong> I’m encouraged and reminded of the fact that the only way one can fully recover spiritually, mentally and emotionally from the effects of a broken background is found in the saving and restorative work of a loving, sovereign God and His Son, Jesus Christ.&#8221; <span id="endorsements-footer-credit">Nathan, 26</span></p>
+	<p id="endorsements-footer-quote">&#8220;My personal path of healing and recovery is still ongoing, but after reading <strong><em>LEFT</em></strong> I’m encouraged and reminded of the fact that the only way one can fully recover spiritually, mentally and emotionally from the effects of a broken background is found in the saving and restorative work of a loving, sovereign God and His Son, Jesus Christ.&#8221; <span id="endorsements-footer-credit">- Nathan, 26</span></p>
 </div>
 
 <!--End Endorsements-->
