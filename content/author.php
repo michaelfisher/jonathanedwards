@@ -17,7 +17,7 @@
 			on staff at City Church in Murfreesboro, Tennessee just outside
 			of Nashville. He and his wife live in the Murfreesboro area.
 		</p>
-		<p id="author-social"><a class="twitter-link" target="_blank" href="http://twitter.com/NotThePuritan"><span class="fa fa-twitter"></span></a>&emsp;<a class="instagram-link" target="_blank" href="http://instagram.com/NotThePuritan"><span class="fa fa-instagram"></span></a></p>
+		<p id="author-social"><a class="twitter-link" target="_blank" href="http://twitter.com/NotThePuritan"><span class="fa fa-twitter"></span></a>&emsp;&emsp;<a class="instagram-link" target="_blank" href="http://instagram.com/NotThePuritan"><span class="fa fa-instagram"></span></a></p>
 	</div>
 	
 </div>

@@ -24,7 +24,17 @@
 			<strong><em>And I will never forget it.</em></strong>
 		</p>
 	</div>
-	
+
+	<div class="col-sm-12">
+		<div id="why-buttons" class="container">
+			<ul>
+				<li class="col-sm-6 col-xs-12"><a id="order-now-button" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LGGQYR9UAFTYQ" class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-shopping-cart"></span> Pre-Order</a></li>
+				<li class="col-sm-6 col-xs-12"><a id="download-preview-button" data-toggle="modal" data-target="#preview-modal" class="btn btn-block btn-lg btn-default"><span class="fa fa-book"></span> Free Chapter</a></li>
+			</ul>
+		</div>
+	</div>
+
+
 </div>
 
 <div id="why-footer" class="col-xs-12">

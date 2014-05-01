@@ -9,6 +9,10 @@
 	color: #bf9959;
 }
 
+.instagram-link:hover {
+	color: #886d40;
+}
+
 /*Navbar*/
 #main-nav {
 	width: 100%;
@@ -104,6 +108,7 @@
 
 #home-buttons ul li {
 	display: inline;
+	padding: 0 50px;
 }
 
 #home-buttons ul li a {
@@ -111,7 +116,7 @@
 	text-transform: uppercase;
 	font-size: 15px;
 	line-height: 18px;
-	font-family: 'Locator-Light';
+	font-family: 'Locator-Black-900';
 	letter-spacing: 0.25em;
 }
 
@@ -122,7 +127,7 @@
 
 #order-now-button {
 	background-color: #ffffff;
-	color: #000000;
+	color: #404040;
 }
 
 #download-preview-button {
@@ -196,6 +201,43 @@
 #why-text {
 	margin-top: 25px;
 	font-family: 'Locator-Light';
+}
+
+#why-buttons {
+	text-align: center;
+	width: 85%
+}
+
+#why-buttons ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#why-buttons ul li {
+	display: inline;
+	padding: 0 50px;
+}
+
+#why-buttons ul li a {
+	margin-top: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.25em;
+	font-family: 'Locator-Black-900';
+}
+
+#why .btn-lg {
+	border: none;
+	padding: 25px 0;
+}
+
+#why-buttons ul li:first-child a {
+	background-color: #c0c0c0;
+	color: #ffffff;
+}
+
+#why-buttons ul li:last-child a {
+	background-color: #bf9959;
+	color: #ffffff;
 }
 
 #why-footer {
@@ -354,6 +396,7 @@
 
 #purchase-buttons ul li {
 	display: inline;
+	padding: 0 50px;
 }
 
 #purchase-buttons ul li a {
@@ -446,8 +489,11 @@
 
 #author-text {
 	margin-top: 50px;
-	text-transform: uppercase;
 	font-family: 'Locator-Light';
+}
+
+#author-text strong {
+	text-transform: uppercase;
 }
 
 #author-social {
