@@ -11,9 +11,13 @@
 
 	<div id="author-text" class="col-sm-6 col-xs-12">
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			<strong>JONATHAN EDWARDS</strong> earned his BA from East Carolina
+			University and his MDiv from Southeastern Baptist Theologial
+			Seminary in Wake Forest, North Carolina. He currently serves
+			on staff at City Church in Murfreesboro, Tennessee just outside
+			of Nashville. He and his wife live in the Murfreesboro area.
 		</p>
-		<p id="author-twitter"><a class="twitter-link" target="_blank" href="http://twitter.com/NotThePuritan"><span class="fa fa-twitter"></span></a></p>
+		<p id="author-social"><a class="twitter-link" target="_blank" href="http://twitter.com/NotThePuritan"><span class="fa fa-twitter"></span></a>&emsp;<a class="instagram-link" target="_blank" href="http://instagram.com/NotThePuritan"><span class="fa fa-instagram"></span></a></p>
 	</div>
 	
 </div>
