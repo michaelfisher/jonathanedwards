@@ -108,7 +108,7 @@
 
 #home-buttons ul li {
 	display: inline;
-	padding: 0 50px;
+	padding: 0 25px;
 }
 
 #home-buttons ul li a {
@@ -130,8 +130,18 @@
 	color: #404040;
 }
 
+#order-now-button:hover {
+	background-color: #f0f0f0;
+	color: #404040;
+}
+
 #download-preview-button {
 	background-color: #bf9959;
+	color: #ffffff;
+}
+
+#download-preview-button:hover {
+	background-color: #b48f50;
 	color: #ffffff;
 }
 
@@ -215,7 +225,7 @@
 
 #why-buttons ul li {
 	display: inline;
-	padding: 0 50px;
+	padding: 0 25px;
 }
 
 #why-buttons ul li a {
@@ -231,12 +241,22 @@
 }
 
 #why-buttons ul li:first-child a {
-	background-color: #c0c0c0;
+	background-color: #202020;
+	color: #fff;
+}
+
+#why-buttons ul li:first-child a:hover {
+	background-color: #171717;
+	color: #fff;
+}
+#b48f50
+#why-buttons ul li:last-child a {
+	background-color: #bf9959;
 	color: #ffffff;
 }
 
-#why-buttons ul li:last-child a {
-	background-color: #bf9959;
+#why-buttons ul li:last-child a:hover {
+	background-color: #b48f50;
 	color: #ffffff;
 }
 
@@ -332,7 +352,7 @@
 }
 
 #read-more-button .btn-default:hover {
-	background-color: #e0e0e0;
+	background-color: #b7b7b7;
 }
 
 #endorsements-footer {
@@ -403,7 +423,7 @@
 	margin-top: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.25em;
-	font-family: 'Locator-Light';
+	font-family: 'Locator-Black-900';
 }
 
 #purchase .btn-lg {
@@ -416,8 +436,18 @@
 	color: #ffffff;
 }
 
+#purchase-buttons ul li:first-child a:hover {
+	background-color: #b7b7b7;
+	color: #ffffff;
+}
+
 #purchase-buttons ul li:last-child a {
 	background-color: #bf9959;
+	color: #ffffff;
+}
+
+#purchase-buttons ul li:last-child a:hover {
+	background-color: #b48f50;
 	color: #ffffff;
 }
 
@@ -483,12 +513,17 @@
 	text-align: center;
 }
 
+#author-info {
+	margin: 0 15%;
+	width: 70%;
+}
+
 #author-pic img {
-	max-width: 50%
+	max-width: 75%;
+	margin-bottom: 50px;
 }
 
 #author-text {
-	margin-top: 50px;
 	font-family: 'Locator-Light';
 }
 
@@ -574,14 +609,114 @@
 	color: #ffffff;
 }
 
+#facebook-share-button:hover {
+	background-color: #32497a;
+	color: #ffffff;
+}
+
 #twitter-share-button {
 	background-color: #4099ff;
+	color: #ffffff;
+}
+
+#twitter-share-button:hover {
+	background-color: #3a85db;
 	color: #ffffff;
 }
 
 #pinterest-share-button {
 	background-color: #c92228;
 	color: #ffffff;
+}
+
+#pinterest-share-button:hover {
+	background-color: #aa2025;
+	color: #ffffff;
+}
+
+/*Why*/
+#thanks {
+	padding: 50px 0 100px 0;
+	background-color: #ffffff;
+	background: url('../img/backgrounds/texture.png');
+	background-repeat: repeat-y;
+	background-position: 0 0;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#thanks-header {
+	text-align: center;
+}
+
+#thanks-header h1 {
+	padding-top: 25px;
+	text-transform: uppercase;
+	font-size: 6vw;
+	font-family: 'Locator-Black-900';
+}
+
+#thanks-header h3 {
+	color: #bf9959;
+	font-size: 24px;
+	font-family: 'Locator-Black-Italic-700';
+	font-style: italic;
+}
+
+#thanks-header h3#social-request {
+	margin-top: 75px;
+	color: #333;
+	font-size: 24px;
+	font-family: 'Locator-Black-900';
+	font-style: normal;
+}
+
+#thanks-book {
+	margin-top: 25px;
+}
+
+#thanks-book img {
+	max-width: 75%;
+}
+
+#thanks-text {
+	margin-top: 25px;
+	font-family: 'Locator-Light';
+}
+
+#thanks-buttons {
+	text-align: center;
+	width: 85%
+}
+
+#thanks-buttons ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#thanks-buttons ul li {
+	display: inline;
+	padding: 0 20px;
+}
+
+#thanks-buttons ul li a {
+	margin-top: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.25em;
+	font-family: 'Locator-Light';
+}
+
+#thanks .btn-lg {
+	border: none;
+	padding: 15px 0;
+}
+
+
+
+#thanks-footer {
+	background-color: #000000;
+	text-align: center;
+	line-height: 30px;
 }
 
 /*Copyright*/
@@ -696,6 +831,7 @@
 	#why-header h1 {
 		font-size: 10vw;
 	}
+	
 	#endorsements-header h1 {
 		font-size: 10vw;
 	}
@@ -709,6 +845,9 @@
 		background-image: none;
 	}
 	#share-header h1 {
+		font-size: 10vw;
+	}
+	#thanks-header h1 {
 		font-size: 10vw;
 	}
 }

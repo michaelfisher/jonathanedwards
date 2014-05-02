@@ -15,14 +15,14 @@
 
 		<div class="endorsement">
 			<p class="endorsement-quote">&#8220;Powerful. Strong. Brutally honest. Heart wrenching. Healing. Hopeful. These are the words that come to my mind after reading <strong><em>LEFT</strong></em>. Married to a lovely lady whose story is similar in many ways to Jonathan's, I have seen both the pain a fallen world inflicts on so many when abandoned by a parent(s), and I have seen the healing that comes through Jesus and a relationship with a perfect Heavenly Father. This is a book I could not put down. Neither will you.&#8221;</p>
-			<p class="endorsement-author">- Daniel L. Akin<a class="twitter-link" href="http://twitter.com/dannyakin"><i class="fa fa-twitter"></i></a></p>
+			<p class="endorsement-author">- Daniel L. Akin<a class="twitter-link" target="_blank" href="http://twitter.com/dannyakin"><i class="fa fa-twitter"></i></a></p>
 			<p class="endorsement-author-description">President, Southeastern Baptist Theological Seminary, and author of <em>Engaging Exposition</em></p>
 		</div>
 
 		<div class="endorsement">
 			<p class="endorsement-quote">&#8220;<strong><em>LEFT</em></strong> is a raw and riveting series of reflections on life in the wake of parental abandonment. Those who have been through similar circumstances will find in Jonathan an articulate voice for this particular pain. Those who have not been through this experience will find a window into how best to minister and serve their friends from broken families.&#8221;</p>
 			<p class="endorsement-author">- Trevin Wax<a class="twitter-link" target="_blank" href="http://twitter.com/TrevinWax"><i class="fa fa-twitter"></i></a></p>
-			<p class="endorsement-author-description">Managing Editor of <em>The Gospel Project</em>, and author of <em>Gospel-Centered Teaching</em> and <em>Counterfeit Gospels</em></p>
+			<p class="endorsement-author-description">Managing Editor of The Gospel Project at LifeWay, popular blogger (Kingdom People), and author of several books</p>
 		</div>
 
 		<div class="endorsement">
@@ -37,19 +37,19 @@
 			<p class="endorsement-author-description">Lead Pastor, Imago Dei Church, and author of <em>Faithful Preaching and Proclaiming Jesus</em></p>
 		</div>
 
-		<div class="endorsement">
-			<p class="endorsement-quote">&#8220;Concussed by his dad’s leaving, Edwards narrates the particular, detailed miseries that he experienced as a boy, a teen, and an adult. But there is a turning, and his mother’s love points him to the One who can heal, forgive and fill. To read this is to grieve, but also to marvel anew at the Redeemer.&#8221;</p>
-			<p class="endorsement-author">- Glenn Lucke<a class="twitter-link" target="_blank" href="http://twitter.com/GlennLucke"><i class="fa fa-twitter"></i></a></p>
-			<p class="endorsement-author-description">President, Docent Research Group</p>
-		</div>
-
-		<div class="endorsement">
-			<p class="endorsement-quote">&#8220;In <strong><em>LEFT</em></strong> my friend Jonathan Edwards provides a biblically-informed, heartfelt, and pastoral book about the existential realities of divorce. Highly recommended.&#8221;</p>
-			<p class="endorsement-author">- Bruce Ashford<a class="twitter-link" target="_blank" href="http://twitter.com/BruceAshford"><i class="fa fa-twitter"></i></a></p>
-			<p class="endorsement-author-description">Dean of Faculty, Southeastern Baptist Theological Seminary, and editor of <em>The Theology and Practice of Mission</em></p>
-		</div>
-
 		<div id="read-more-content">
+
+			<div class="endorsement">
+				<p class="endorsement-quote">&#8220;Concussed by his dad’s leaving, Edwards narrates the particular, detailed miseries that he experienced as a boy, a teen, and an adult. But there is a turning, and his mother’s love points him to the One who can heal, forgive and fill. To read this is to grieve, but also to marvel anew at the Redeemer.&#8221;</p>
+				<p class="endorsement-author">- Glenn Lucke<a class="twitter-link" target="_blank" href="http://twitter.com/GlennLucke"><i class="fa fa-twitter"></i></a></p>
+				<p class="endorsement-author-description">President, Docent Research Group</p>
+			</div>
+
+			<div class="endorsement">
+				<p class="endorsement-quote">&#8220;In LEFT my friend Jonathan Edwards provides a biblically-informed, heartfelt, and pastoral book about the existential realities of divorce. This is a moving and helpful book. Highly recommended.&#8221;</p>
+				<p class="endorsement-author">- Bruce Ashford<a class="twitter-link" target="_blank" href="http://twitter.com/BruceAshford"><i class="fa fa-twitter"></i></a></p>
+				<p class="endorsement-author-description">Dean of Faculty, Southeastern Baptist Theological Seminary, and editor of <em>The Theology and Practice of Mission</em></p>
+			</div>
 
 			<div class="endorsement">
 				<p class="endorsement-quote">&#8220;From the very first page of <strong><em>LEFT</em></strong> I was struck by the importance of this book. How many millions of kids have tried to make sense of their feelings of abandonment? Edwards takes the reader through the raw agony of rejection, the searing pain of loss and the brokenhearted emotions of a boy deprived of a father.  Yet, he has made a startling and redemptive move in writing this book.  Rather than wallow around assigning blame, Jonathan works through the tragedy until he finds the peace of Jesus Christ.  Forgiveness and healing find their way into his story and at the end he offers hope and a future to all those who still fight to keep their heads above water, never quite able to let go of their hurt or be rid of the nagging question, “What if…”. Everyone knows someone who needs to read this.&#8221;</p>
@@ -83,7 +83,7 @@
 
 			<div class="endorsement">
 				<p class="endorsement-quote">&#8220;Jonathan writes with an honesty that will resonate deeply in the hearts of all who know what it’s like to be disappointed, disillusioned and discouraged. In this candid, soul-searching memoir, Edwards exposes his struggles to make sense of the pain and loss he experienced in his father’s abandonment. Ultimately, LEFT points to the hope found in God, our heavenly Father, who will never leave or abandon His children.&#8221;</p>
-				<p class="endorsement-author">- Gwen Smith<a class="twitter-link" href="http://twitter.com/gwensmithmusic"><i class="fa fa-twitter"></i></a></p>
+				<p class="endorsement-author">- Gwen Smith<a class="twitter-link" target="_blank" href="http://twitter.com/gwensmithmusic"><i class="fa fa-twitter"></i></a></p>
 				<p class="endorsement-author-description">Speaker, Songwriter, and author of <em>Broken Into Beautiful</em> and co-author of <em>Knowing God By Name</em> and <em>Trusting God</em></p>
 			</div>
 
