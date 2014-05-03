@@ -25,7 +25,7 @@
 		</p>
 	</div>
 
-	<div class="col-sm-12">
+	<div class="col-xs-12">
 		<div id="why-buttons" class="container">
 			<ul>
 				<li class="col-sm-6 col-xs-12"><a id="order-now-button" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LGGQYR9UAFTYQ" class="btn btn-block btn-lg btn-default"><span class="glyphicon glyphicon-shopping-cart"></span> Pre-Order</a></li>
@@ -33,7 +33,6 @@
 			</ul>
 		</div>
 	</div>
-
 
 </div>
 
