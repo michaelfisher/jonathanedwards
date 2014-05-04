@@ -9,6 +9,8 @@
 		<meta name="title" content="LEFT | Jonathan Edwards">
 		<link rel="shortcut icon" href="favicon.png">
 
+		<meta property="og:image" content="http://mfisherconcepts.com/sandbox/jonathanedwards/img/content/book.png" />
+
 		<meta name="google-site-verification" content="Wmfg83mxw_JCrliFF8qD35_a8hRh2Qck78bGxvdjIAc" />
 
 		<title>LEFT | Jonathan Edwards</title>
