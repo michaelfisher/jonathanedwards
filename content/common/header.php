@@ -9,7 +9,10 @@
 		<meta name="title" content="LEFT | Jonathan Edwards">
 		<link rel="shortcut icon" href="favicon.png">
 
-		<meta property="og:image" content="http://mfisherconcepts.com/sandbox/jonathanedwards/img/content/book.png" />
+		<meta property="og:image" content="http://mfisherconcepts.com/sandbox/jonathanedwards/img/content/book-share-image.png" />
+		<meta property="og:url" content="http://mfisherconcepts.com/sandbox/jonathanedwards" />
+		<meta property="og:title" content="LEFT | Jonathan Edwards" />
+		<meta property="og:description" content="Just like that, he was gone. And just like that, there I was...left. The struggle to make sense of life when a parent leaves." />
 
 		<meta name="google-site-verification" content="Wmfg83mxw_JCrliFF8qD35_a8hRh2Qck78bGxvdjIAc" />
 
