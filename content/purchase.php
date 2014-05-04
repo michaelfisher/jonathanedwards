@@ -7,7 +7,7 @@
 
 	<div id="purchase-buttons" class="container">
 		<ul>
-			<li class="col-sm-push-3 col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G5EWSWVLKYMPC"><span class="glyphicon glyphicon-shopping-cart"></span> Pre-Order</a></li>
+			<li class="col-sm-push-3 col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAF3ZMR63QK56"><span class="glyphicon glyphicon-shopping-cart"></span> Pre-Order</a></li>
 			<!--<li class="col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default">Ebook</a></li>-->
 		</ul>
 	</div>
