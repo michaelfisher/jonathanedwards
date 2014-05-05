@@ -9,15 +9,7 @@
 	</div>
 	<div id="footer-right" class="pull-right">
 		<a href="http://borocitychurch.com"><img id="city-church-logo" src="img/logos/city-church-logo.png"></a>
-	</div>
-	<div id="site-credit" class="col-xs-6">
-		<script>
-			var user =	"michael";
-			var host =	"mfisherconcepts.com";
-			var linktext = "mfisherconcepts";
-			document.write("<a class='pull-right' href='" + "mail" + "to:" + user + "@" + host + "'>" + linktext + "</a>");
-		</script>
-	</div>
+	</div>	
 </div>
 <!--End Back To Top-->
 
