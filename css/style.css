@@ -76,7 +76,7 @@
 	padding: 50px 0 100px 0;
 	background: url('../img/backgrounds/wood.jpg');
 	background-repeat: no-repeat;
-	background-position: 0 0;
+	background-position: center center;
 	background-attachment: fixed;
 	background-size: cover;
 	background-color: #202020;
@@ -88,7 +88,7 @@
 
 #home #home-content img {
 	margin-top: 50px;
-	width: 50%;
+	width: 65%;
 	opacity: 0.8;
 }
 
@@ -839,8 +839,9 @@
 /*Custom Media Queries*/
 @media(max-width:767px){
 	#home {
-		background-image: none;
+		/*background-image: none;*/
 	}
+
 	#why-header h1 {
 		font-size: 10vw;
 	}
