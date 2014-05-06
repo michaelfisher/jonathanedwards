@@ -758,6 +758,17 @@
 }
 
 /*Custom Media Queries*/
+@media(max-width:1024px){
+	#home {
+		background: url('../img/backgrounds/wood-iphone.jpg');
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+		background-color: #202020;
+	}
+}
+
 @media(max-width:767px){
 	#why-header h1 {
 		font-size: 10vw;
