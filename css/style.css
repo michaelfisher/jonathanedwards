@@ -757,89 +757,10 @@
 	font-family: 'Courier New', Courier, monospace;
 }
 
-/*Purchase Modal*/
-#purchase-modal {
-	overflow-y: auto !important;
-}
-
-#purchase-modal .modal-header h4 {
-	text-transform: uppercase;
-	text-align: center;
-	font-family: 'Locator-Black-900';
-}
-
-#purchase-modal .modal-body {
-	text-align: center;
-	font-family: 'Locator-Light';
-	overflow-y: auto;
-}
-
-#purchase-modal ul {
-	list-style-type: none;
-	padding: 0;
-}
-
-#purchase-modal ul li {
-	margin-bottom: 15px;
-}
-
-#purchase-modal ul li button {
-	width: 100%;
-}
-
-#purchase-modal .modal-footer button {
-	font-family: 'Locator-Light';
-}
-
-/*Preview Modal*/
-#preview-modal {
-	overflow-y: auto !important;
-}
-
-#preview-modal .modal-header h4 {
-	text-transform: uppercase;
-	text-align: center;
-	font-family: 'Locator-Black-900';
-}
-
-#preview-modal .modal-body {
-	font-family: 'Locator-Light';
-	overflow-y: auto;
-}
-
-#preview-modal ul {
-	list-style-type: none;
-	padding: 0;
-}
-
-#preview-modal ul li {
-	display: inline;
-	margin-bottom: 15px;
-}
-
-#preview-modal ul li a {
-	width: 100%;
-	background-color: #bf9959;
-	color: #ffffff;
-}
-
-#preview-modal ul li a.btn {
-	border: none;
-}
-
-#preview-modal ul li p {
-	margin-top: 15px;
-	text-align: justify;
-}
-
-#preview-modal .modal-footer button {
-	font-family: 'Locator-Light';
-}
-
 /*Custom Media Queries*/
 @media(max-width:767px){
 	#home {
-		background: url('../img/backgrounds/wood.jpg');
+		background: url('../img/backgrounds/wood-iphone.jpg');
 	}
 
 	#why-header h1 {
