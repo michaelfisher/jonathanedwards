@@ -761,11 +761,6 @@
 @media(max-width:1024px){
 	#home {
 		background: url('../img/backgrounds/wood-iphone.jpg');
-		background-repeat: no-repeat;
-		background-position: center center;
-		background-attachment: fixed;
-		background-size: cover;
-		background-color: #202020;
 	}
 }
 
