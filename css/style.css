@@ -839,7 +839,7 @@
 /*Custom Media Queries*/
 @media(max-width:767px){
 	#home {
-		/*background-image: none;*/
+		background: url('../img/backgrounds/wood.jpg');
 	}
 
 	#why-header h1 {
