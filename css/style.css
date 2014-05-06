@@ -761,6 +761,11 @@
 @media(max-width:767px){
 	#home {
 		background: url('../img/backgrounds/wood-iphone.jpg');
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+		background-color: #202020;
 	}
 
 	#why-header h1 {
@@ -790,6 +795,11 @@
 @media(max-width:480px){
 	#home {
 		background: url('../img/backgrounds/wood-iphone.jpg');
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+		background-color: #202020;
 	}
 
 	#home-buttons, #why-buttons, #purchase-buttons {
@@ -799,14 +809,19 @@
 
 	#why-buttons ul li {
 		padding: 0;
-}
+	}
 }
 
 @media(max-width:600px){
 	#home {
 		background: url('../img/backgrounds/wood-iphone.jpg');
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+		background-color: #202020;
 	}
-	
+
 	#footer {
 		text-align: center;
 	}
