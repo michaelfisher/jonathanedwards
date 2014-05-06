@@ -788,6 +788,10 @@
 }
 
 @media(max-width:480px){
+	#home {
+		background: url('../img/backgrounds/wood-iphone.jpg');
+	}
+
 	#home-buttons, #why-buttons, #purchase-buttons {
 		width: 100%;
 		padding: 0;
@@ -799,6 +803,10 @@
 }
 
 @media(max-width:600px){
+	#home {
+		background: url('../img/backgrounds/wood-iphone.jpg');
+	}
+	
 	#footer {
 		text-align: center;
 	}
