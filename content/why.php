@@ -12,7 +12,7 @@
 
 	<div id="why-text" class="col-sm-5 col-sm-pull-1 col-xs-12">
 		<p>
-			There was a space in the living room where his big, blue leather chair used to be. There was a space at the end of the table where he used to sit and tell us jokes and talk about his day and tell me to always eat over my plate.There was a space in the driveway next to mom's van where his ligh blue Honda Civic used to be parked. There was a space in his bathroom at his sink where his toothbrush and toothpaste and deodorant used to be. There was a space next to mom in their bed where he used to sleep. There was a space in new pictures and on the mantle at Christmas where his stocking used to hang and in the laundry basket where his dirty clothes used to be.  
+			There was a space in the living room where his big, blue leather chair used to be. There was a space at the end of the table where he used to sit and tell us jokes and talk about his day and tell me to always eat over my plate.There was a space in the driveway next to mom's van where his light blue Honda Civic used to be parked. There was a space in his bathroom at his sink where his toothbrush and toothpaste and deodorant used to be. There was a space next to mom in their bed where he used to sleep. There was a space in new pictures and on the mantle at Christmas where his stocking used to hang and in the laundry basket where his dirty clothes used to be.  
 		</p>
 		<p>
 			But his clothes weren't there. Our laundry basket didn't have any of his t-shirts or pants or socks. All the clothes in the basket were too small for him. We didn't have any daddy clothes to wash.
