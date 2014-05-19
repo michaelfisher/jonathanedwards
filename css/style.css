@@ -633,7 +633,8 @@
 
 /*Thanks*/
 #thanks {
-	padding: 50px 0 100px 0;
+	min-height: 800px;
+	padding: 150px 0 100px 0;
 	background-color: #ffffff;
 	background: url('../img/backgrounds/texture.png');
 	background-repeat: repeat-y;

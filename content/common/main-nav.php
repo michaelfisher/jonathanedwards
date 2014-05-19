@@ -22,11 +22,7 @@
         <li><a href="/#purchase" class="smooth-scroll">Purchase</a></li>
         <li><a href="/#author" class="smooth-scroll">Author</a></li>
         <li><a href="/#share" class="smooth-scroll">Share</a></li>
-        <!--<li><a href="#contact" class="smooth-scroll">Contact</a></li>-->
       </ul>
-      <!--<ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Order</a></li>
-      </ul>-->
     </div><!--.navbar-collapse-->
 
 	</div><!--.container-->

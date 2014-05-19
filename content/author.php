@@ -13,7 +13,7 @@
 		<div id="author-text" class="col-sm-6 col-xs-12">
 			<p>
 				<strong>JONATHAN EDWARDS</strong> earned his BA from East Carolina
-				University and his MDiv from Southeastern Baptist Theologial
+				University and his MDiv from Southeastern Baptist Theological
 				Seminary in Wake Forest, North Carolina. He currently serves
 				on staff at City Church in Murfreesboro, Tennessee just outside
 				of Nashville. He and his wife live in the Murfreesboro area.
