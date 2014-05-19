@@ -661,6 +661,11 @@
 	font-style: italic;
 }
 
+#thanks-header p {
+	font-family: 'Locator-Black-Italic-700';
+	font-style: italic;
+}
+
 #thanks-header h3#social-request {
 	margin-top: 75px;
 	color: #333;
