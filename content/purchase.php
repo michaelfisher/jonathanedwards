@@ -7,8 +7,8 @@
 
 	<div id="purchase-buttons" class="container">
 		<ul>
-			<li class="col-sm-push-3 col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAF3ZMR63QK56"><span class="glyphicon glyphicon-shopping-cart"></span> Pre-Order</a></li>
-			<!--<li class="col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default">Ebook</a></li>-->
+			<li class="col-sm-6 col-xs-12"><a class="btn btn-block btn-lg btn-default" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAF3ZMR63QK56"><span class="glyphicon glyphicon-shopping-cart"></span> Order Now</a></li>
+			<li class="col-sm-6 col-xs-12"><a target="_blank" href="http://www.amazon.com/LEFT-Struggle-Sense-Parent-Leaves-ebook/dp/B00MMMF9LY/" class="btn btn-block btn-lg btn-default"><span class="fa fa-book"></span> Buy Ebook</a></li>
 		</ul>
 	</div>
 
@@ -17,7 +17,7 @@
 	</div>
 
 	<div id="purchase-ebook" class="col-xs-6 col-xs-12">
-		<img src="img/content/ipad-book-coming-soon.png">
+		<img src="img/content/ipad-book.png">
 	</div>
 	
 </div>
