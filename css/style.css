@@ -223,6 +223,8 @@
 	font-family: 'Locator-Light';
 	font-size: 65%;
 	letter-spacing: 0;
+	position: relative;
+	top: -7px;
 }
 
 #order-now-modal .modal-footer {
