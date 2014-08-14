@@ -201,7 +201,8 @@
 }
 
 #order-now-modal .modal-header button.close {
-	color: red;
+	color: white;
+	opacity: 0.75;
 }
 
 #order-now-modal .modal-body {
