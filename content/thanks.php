@@ -4,7 +4,7 @@
 	<div id="thanks-header" class="col-xs-12">
 		<h1>Thank You!</h1>
 		<h3>Your order has been placed, and a receipt will be emailed to you.</h3>
-		<p class="help-block">Pre-orders will begin shipping on 9.8.14</p>
+		<!--<p class="help-block"></p>-->
 		<h3 id="social-request">Would you mind taking a moment to help spread the word about <strong><em>LEFT</em></strong> on social media?</h3>
 	</div>
 
