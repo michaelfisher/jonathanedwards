@@ -10,8 +10,6 @@
 		<link rel="shortcut icon" href="favicon.png">
 		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-		<meta name="apple-mobile-web-app-capable" content="yes">
-
 		<link rel="canonical" href="http://left-book.com/" />
 		<meta property="og:image" content="http://left-book.com/img/content/book-share-image.png" />
 		<meta property="og:url" content="http://left-book.com/" />
