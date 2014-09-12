@@ -29,7 +29,7 @@
 		<div id="why-buttons" class="container">
 			<ul>
 				<li class="col-sm-6 col-xs-12"><button id="order-now-button" class="btn btn-block btn-lg btn-default" data-toggle="modal" data-target="#order-now-modal"><span class="fa fa-shopping-cart"></span> Buy Now</button></li>
-				<li class="col-sm-6 col-xs-12"><a target="_blank" href="dl/left-free-preview.pdf" id="download-preview-button" class="btn btn-block btn-lg btn-default"><span class="fa fa-cloud-download"></span> Free Chapter</a></li>
+				<li class="col-sm-6 col-xs-12"><a onclick="ga('send', 'event', 'Downloads', 'Preview PDF');" href="dl/left-free-preview.pdf" target="_blank" id="download-preview-button" class="btn btn-block btn-lg btn-default"><span class="fa fa-cloud-download"></span> Free Chapter</a></li>
 			</ul>
 		</div>
 	</div>
