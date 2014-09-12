@@ -18,8 +18,8 @@
       							</div>
 							    <div class="modal-body">
 							    	<ul>
-							    		<li class="col-sm-4 col-sm-push-2 col-xs-12"><a onclick="ga('send', 'event', 'outbound', 'link', 'PayPal');" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAF3ZMR63QK56" target="_blank" ><span class="fa fa-5x fa-book"></span></br>Hard Copy</br>$14.99</br><small>+$3 S&H</small></a></li>
-							    		<li class="col-sm-4 col-sm-push-2 col-xs-12"><a onclick="ga('send', 'event', 'outbound', 'link', 'Amazon');" href="http://www.amazon.com/LEFT-Struggle-Sense-Parent-Leaves-ebook/dp/B00MMMF9LY/" target="_blank" ><span class="fa fa-5x fa-tablet"></span></br>Ebook</br>$9.99</br><small>Amazon</small></a></li>
+							    		<li class="col-sm-4 col-sm-push-2 col-xs-12"><a onclick="ga('send', 'event', 'Outbound Link', 'PayPal');" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAF3ZMR63QK56" target="_blank" ><span class="fa fa-5x fa-book"></span></br>Hard Copy</br>$14.99</br><small>+$3 S&H</small></a></li>
+							    		<li class="col-sm-4 col-sm-push-2 col-xs-12"><a onclick="ga('send', 'event', 'Outbound Link', 'Amazon');" href="http://www.amazon.com/LEFT-Struggle-Sense-Parent-Leaves-ebook/dp/B00MMMF9LY/" target="_blank" ><span class="fa fa-5x fa-tablet"></span></br>Ebook</br>$9.99</br><small>Amazon</small></a></li>
 							    	</ul>
 							    </div>
       							<div class="modal-footer">
@@ -27,7 +27,7 @@
     						</div>
   						</div>
 					</div>
-				<li class="col-sm-6 col-xs-12"><a target="_blank" href="dl/left-free-preview.pdf" id="download-preview-button" class="btn btn-block btn-lg btn-default"><span class="fa fa-cloud-download"></span> Free Chapter</a></li>
+				<li class="col-sm-6 col-xs-12"><a onclick="ga('send', 'event', 'Downloads', 'Preview PDF');" href="dl/left-free-preview.pdf" target="_blank"  id="download-preview-button" class="btn btn-block btn-lg btn-default"><span class="fa fa-cloud-download"></span> Free Chapter</a></li>
 			</ul>
 		</div>
 
