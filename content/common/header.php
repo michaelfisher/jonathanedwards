@@ -50,5 +50,4 @@
 
 	  ga('create', 'UA-50728111-1', 'left-book.com');
 	  ga('send', 'pageview');
-
 	</script>
