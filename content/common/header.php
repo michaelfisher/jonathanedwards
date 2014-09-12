@@ -8,6 +8,7 @@
 		<meta name="author" content="Jonathan Edwards">
 		<meta name="title" content="LEFT | Jonathan Edwards">
 		<link rel="shortcut icon" href="favicon.png">
+		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
 		<link rel="canonical" href="http://left-book.com/" />
 		<meta property="og:image" content="http://left-book.com/img/content/book-share-image.png" />
